@@ -86,7 +86,7 @@ function CategoriesInDb() {
               <div className="card bg-dark text-white shadow">
                 <div className="card-body">Musical</div>
               </div>
-            </div> */}
+            </div> repasar*/}
           </div>
         </div>
       </div>
